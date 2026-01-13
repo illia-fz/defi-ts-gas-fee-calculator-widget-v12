@@ -13,3 +13,4 @@ test("edge", () => {
 test("invalid", () => {
   expect(() => compound(-1, 0.1, 5)).toThrow();
 });
+// Patch 2 Commit 1: Adding a comment to compound.test.ts
